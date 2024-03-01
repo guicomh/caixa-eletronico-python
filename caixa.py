@@ -29,5 +29,3 @@ def depositar_saldo():
 
     return 
 
-sacar_dinheiro()
-depositar_saldo()
