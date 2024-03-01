@@ -8,3 +8,5 @@ extrato
 saldo
 sair 
 
+(só funciona no sistema operacional Windowns)
+
