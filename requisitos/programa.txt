@@ -1,0 +1,10 @@
+Caixa eletronico 24 horas 
+
+funcões 
+
+sacar
+depositar
+extrato 
+saldo
+sair 
+
